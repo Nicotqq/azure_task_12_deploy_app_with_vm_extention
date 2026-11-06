@@ -1,4 +1,4 @@
-$location = "East US" # any region that is available in your Azure subscription
+$location = "East US" 
 $resourceGroupName = "mate-azure-task-12"
 $networkSecurityGroupName = "defaultnsg"
 $virtualNetworkName = "vnet"
